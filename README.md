@@ -18,16 +18,9 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
-
----
-
 ### 🌍 Onde me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![LinkedIn](https://www.linkedin.com/in/michel-oliveira-correia-da-silva-5b8b38355/)
 
 ---
 
