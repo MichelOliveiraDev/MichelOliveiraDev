@@ -20,7 +20,8 @@
 
 ### 🌍 Onde me encontrar:
 
-[![LinkedIn](www.linkedin.com/in/michel-oliveira-correia-da-silva-5b8b38355)
+[LinkedIn - Michel Oliveira](https://www.linkedin.com/in/michel-oliveira-correia-da-silva-5b8b38355)
+
 
 ---
 
